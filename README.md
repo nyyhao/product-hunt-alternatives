@@ -122,6 +122,7 @@ Evergreen listings that people browse when comparing tools.
 - [Futurepedia](https://www.futurepedia.io/) - AI tools directory with categories and guides.
 - [Toolify](https://www.toolify.ai/) - AI tools directory with traffic rankings.
 - [Dang.ai](https://dang.ai/) - Curated AI tools directory.
+- [SaaSCity](https://saascity.io/?ref=best-directories) - Lists AI tools next to SaaS, with voting on a live city map.
 
 ## 🤖 AI agent and MCP directories
 
@@ -134,6 +135,7 @@ Evergreen listings that people browse when comparing tools.
 ## 📚 Startup lists and databases
 
 - [Launching Next](https://www.launchingnext.com/) - Daily list of new startups.
+- [SaaSCity Live](https://saascity.io/live?ref=best-directories) - Browse newly launched startups and apps, searchable and updated daily.
 - [StartupBase](https://startupbase.io/) - Share your startup and get discovered.
 - [Startup Stash](https://startupstash.com/) - Curated directory of startup tools and resources.
 - [Side Projectors](https://www.sideprojectors.com/) - Showcase side projects, or sell them.
@@ -150,7 +152,7 @@ Evergreen listings that people browse when comparing tools.
 2. **Start with the featured platforms and the top launch boards.** A few good launches beat a hundred low-quality listings.
 3. **Spread launches over weeks,** not one day, so each one gets attention.
 4. **Answer every comment** on launch day. Engagement moves rankings on most boards.
-5. **Add evergreen listings** (SaaS directories, AI directories) after the launch, for search traffic and backlinks.
+5. **Add evergreen listings** (SaaS directories such as [SaaSCity](https://saascity.io/?ref=best-directories) or SaaSHub, AI directories) after the launch, for search traffic and backlinks.
 6. **Track referrals** with a `?ref=` parameter or UTM tags so you know which directories send real users.
 
 ---
